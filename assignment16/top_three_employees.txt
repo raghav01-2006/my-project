@@ -1,0 +1,7 @@
+============================================================
+OPERATION 3: TOP 3 HIGHEST-PAID EMPLOYEES
+============================================================
+ID: 4  | Name: Priya      | Dept: Finance    | Salary: 70000.00
+ID: 3  | Name: Neha       | Dept: IT         | Salary: 65000.00
+ID: 7  | Name: Rohit      | Dept: Finance    | Salary: 60000.00
+============================================================
